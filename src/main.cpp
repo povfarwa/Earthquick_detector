@@ -36,3 +36,26 @@ void setup(){
 
     delay(200)
 }
+
+void loop(){
+    int Vibration = digitalRead(VIBRATION_PIN)
+
+    Serial.println(vibrtion)
+
+    if(vibration == HIGH) {
+        digitalWrite(LED_PIN, HIGH)
+        tone(BUZZER_PIN, 1000)
+        display.clearDisplay()
+        display.setTextSize(2)
+        display.setCursor(0, 5
+        display.println("ALERT!"))
+        display.setTextSize(1)
+        display.setCursor(5, 35)
+        display.println("EARTHQUAKE")
+        display.setCursor(20, 50)
+        display.println("DETECTED")
+        display.display(),
+
+        delay(200)
+    }
+}

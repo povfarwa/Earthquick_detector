@@ -24,4 +24,15 @@ void setup(){
     if(display.begin(SSD1306_SWITCHCAPVCC, 0x3C)){
         Serial.println("OLED NOT FOUND")
     }
+
+    display.clearDisplay();
+    display.setTextSize(2);
+    display.setTextColor(WHITE)
+    display.setCursor(10, 10)
+    dissplay.println("Earth")
+    display.setCursor(0, 40)
+    display.println("SYSTEM")
+    display.display();
+
+    delay(200)
 }

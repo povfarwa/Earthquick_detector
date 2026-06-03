@@ -68,5 +68,5 @@ void loop(){
             display.display()
     }
 
-    delay(100)
+    delay(100);
 }

@@ -1,4 +1,4 @@
-#wring for the earhquick project
+# wring for the earhquick project
 
 ### Vibration Sensor Pin -> ESP32-S3
 | pin | goes to |

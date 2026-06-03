@@ -10,3 +10,11 @@ Esp32-S3 a mictrocontroller whihc controls all the functions , vibration sensor 
 red led hich will be on when vibration happen, and resistor which protect the led to not be burned , and also a oled display which will show the alerts and a breadboard
 <img width="1177" height="536" alt="image" src="https://github.com/user-attachments/assets/7ddda183-085e-403e-9ffa-d9c9ed28fadd" />
 <img width="355" height="579" alt="image" src="https://github.com/user-attachments/assets/b79912f0-e72a-410f-bae3-818a92612754" />
+
+## Difficulties
+As i am making this in c++ it is very very difficult to make in c++ for logics but i am trying my best and also most important i dont know anything about how to make journel.md i have make it but
+i dont seee anything as i click the create journel then i see my journel otherwise i dont see it nd also curious about what is lock and unlock journel... just so much confused about how to make it
+also i have searched for it in many places yet i am confused but i will still try
+
+## Why making this
+actually i am making this for HackClub event Horizons

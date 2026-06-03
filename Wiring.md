@@ -16,3 +16,20 @@
 
 ---
 
+### BUZZER | Esp32-S3
+| Buzzer | Pin |
+| --- | --- |
+| + | GPIO 18 |
+| - | GND |
+
+---
+
+### OLED display
+| pin | esp32-s3 pin |
+| --- | --- |
+| VCC | 3.3v |
+| GND | GND |
+| SDA | GPIO 8 |
+| SCL | GPIO 9 |
+
+---

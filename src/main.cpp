@@ -19,7 +19,7 @@ void setup(){
     pinMode(LED_PIN, OUTPUT);
     pinMode(BUZZER_PIN, OUTPUT);
 
-    Wire.begn(SDA_PIN< SCL_PIN)
+    Wire.begin(SDA_PIN, SCL_PIN)
 
     if(display.begin(SSD1306_SWITCHCAPVCC, 0x3C)){
         Serial.println("OLED NOT FOUND")
@@ -47,8 +47,8 @@ void loop(){
         tone(BUZZER_PIN, 1000)
         display.clearDisplay()
         display.setTextSize(2)
-        display.setCursor(0, 5
-        display.println("ALERT!"))
+        display.setCursor(0, 5)
+        display.println("ALERT!")
         display.setTextSize(1)
         display.setCursor(5, 35)
         display.println("EARTHQUAKE")
@@ -58,4 +58,15 @@ void loop(){
 
         delay(200)
     }
+    else {
+        digitalWrite(LED_PIN, LOW)
+            noTone(BUZZER_PIN)
+            display.clearDisplay()
+            display.setTextSize(2)
+            display.setCursor(25, 20)
+            display.println("SAFE")
+            display.display()
+    }
+
+    delay(100)
 }

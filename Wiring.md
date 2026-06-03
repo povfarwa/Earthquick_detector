@@ -19,3 +19,9 @@ BUZZER                    |   ESP32-S3
 -                        | GND
 ---------------------------------------------
 
+OLED display                |  ESP32-S3
+
+ VCC                        |3.3v
+GND                         |GND
+SDA                         |GPIO 8
+SCL                         |GPIO 9

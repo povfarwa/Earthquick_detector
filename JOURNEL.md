@@ -17,3 +17,11 @@ my code into the ESP32-S3. I also rite the platform.ini
 
 ---
 
+## 25 minutes
+Today i write the all wiring of my project that which components iring will be attached to esp32s3 and other things like resistor and also
+I have write it in the vs code file
+
+### My wiring file pic:
+![wiring](project_images/wiring.png)
+
+---

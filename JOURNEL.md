@@ -43,6 +43,5 @@ pin like breadboard other pin
 After pushing the code into the esp32s3 then I tested my projct and ii am so happy to see it . It is working perfectly
 
 ### My project working video
-![working](project_videos/working.mp4)
-
+<video src="project_videos/working.mp4" width="100%" controls></video>    
 ---

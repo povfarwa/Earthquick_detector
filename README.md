@@ -35,22 +35,31 @@ video in the readme
 actually i am making this for HackClub event Horizons
 
 ---
-## BOM
 
-| Item  | Component Name | Qty | Unit Price (USD) | Total Price (USD) | Total Price (PKR) | Notes / Specifications |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **1** | ESP32-S3 Development Board | 1 | \$5.75 | \$5.75 | 1,600 | Main microcontroller |
-| **2** | OLED Screen Display | 1 | \$2.87 | \$2.87 | 800 | For showing current situations |
-| **3** | Vibration Sensor | 1 | \$0.36 | \$0.36 | 100 | sense vibrtion |
-| **4** | Active Buzzer | 1 | \$0.13 | \$0.13 35 | for sound |
-| **5** | Resistor | 1 | \$0.0072 | \$0.0072 | 2 | Pull-up / for safety |
-| **6** | Half-Size Breadboard | 2 | \$1.80 | \$3.60 | 500 | 1,000 | for easy wiring |
-| **7** | Hard Jumper Wires (2-Core Twisted) | 1m | \$0.18 | 50 | hard jumper wire |
+## Bill of Materials (BOM)
 
-### So total cost will be:
+| Item | Component Name | Qty | Total Price (USD) | Total Price (PKR) | Specifications |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | ESP32-S3 Development Board | 1 | \$5.75 | 1,600 | Main microcontroller |
+| 2 | OLED Screen Display | 1 | \$2.87 | 800 | For showing current situations |
+| 3 | Vibration Sensor | 1 | \$0.36 | 100 | Senses vibration |
+| 4 | Active Buzzer | 1 | \$0.13 | 35 | For sound |
+| 5 | Resistor | 1 | \$0.0072 | 2 | Pull-up / for safety |
+| 6 | Half-Size Breadboard | 2 | \$3.60 | 1,000 | For easy wiring |
+| 7 | Hard Jumper Wires (2-Core Twisted) | 1m | \$0.18 | 50 | Hard jumper wire |
 
-* **Total Estimated Cost (USD):** **\$12.90**
-* **Total Estimated Cost (PKR):** **Rs. 3,587**
+### Total Projected Costes
+
+* **Total Estimated Cost (USD):** \$12.90
+* **Total Estimated Cost (PKR):** Rs. 3,587
+
+---
+
+### 🛒 Where to Get the Parts
+
+I ordered all these components from the **ElectroBes** shop, which is physically located in our capital, but you can also order online as I also online ordered it!
+
+🔗 **Official Website Link:** [ElectroBes](https://electrobes.com/)
 
 ---
 

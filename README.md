@@ -36,7 +36,7 @@ actually i am making this for HackClub event Horizons
 
 ---
 
-![BOM](BOM.md)
+![BOM](./BOM.md)
 
 ## ThankYou
 Thank You for reviewing and seeing my project

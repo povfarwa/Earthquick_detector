@@ -31,6 +31,15 @@ also i have searched for it in many places yet i am confused but i will still tr
 now my journel is working perfectly and i can see everything but there is one issue i dont know why my project video is not appearing there so i will put .. still it is not shoing up
 video in the readme
 
+---
+
+## Use of AI
+yes i have used ai in this but for little mistakes especially in main.cpp but i used 13 to 14% ai and i am trying to relay less on it and also i dont use ai for bom or any other files
+like journel or wiring when i write it i got messed up so i siply searched from youtube just to see the syntx ad also i used ai in bom but i write bom file 96 % by myself just used for 
+little bit improvements
+
+---
+
 ## Why making this
 actually i am making this for HackClub event Horizons
 
@@ -55,18 +64,11 @@ actually i am making this for HackClub event Horizons
 
 ---
 
-### 🛒 Where to Get the Parts
+###  Where to Get the Parts
 
-I ordered all these components from the **ElectroBes** shop, which is physically located in our capital, but you can also order online as I also online ordered it!
+I ordered all these components from the Electrobes shop which is located in our country capital but you can also order online as I also online ordered it
 
-🔗 **Official Website Link:** [ElectroBes](https://electrobes.com/)
-
----
-
-### Where to get it
-I ordered it from electrobes shop whihc is located in our capital but you can also online order it as i also online order it
-
-Here is the link of website : https://electrobes.com/
+ **Website Link:** [ElectroBes](https://electrobes.com/)
 
 ---
 ## ThankYou

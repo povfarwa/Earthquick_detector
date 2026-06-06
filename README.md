@@ -12,7 +12,7 @@ red led hich will be on when vibration happen, and resistor which protect the le
 <img width="355" height="579" alt="image" src="https://github.com/user-attachments/assets/b79912f0-e72a-410f-bae3-818a92612754" />
 
 ## My working project
-![working](project_videos/working.gif)
+![working](project_videos/working.mp4)
 
 ## Difficulties
 As i am making this in c++ it is very very difficult to make in c++ for logics but i am trying my best and also most important i dont know anything about how to make journel.md i have make it but

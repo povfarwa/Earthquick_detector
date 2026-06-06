@@ -25,3 +25,15 @@ I have write it in the vs code file
 ![wiring](project_images/wiring.png)
 
 ---
+
+### Time : 1 hour
+
+Today I have first confirm the components then i started to wiring . first i do wrong wiring like i connect wrong pins of vibrtion sensor an also 
+of oled screen after i realize that what is wrong i set them then there was another wrong little issue of buzzer i mean i wire right but in the next
+pin like breadboard other pin
+
+![wiring](project_images/wiring3.png)
+![wiring](project_images/wiring1.png)
+![wiring](project_images/wiring2.png)
+
+---

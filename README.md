@@ -68,7 +68,7 @@ actually i am making this for HackClub event Horizons
 
 I ordered all these components from the Electrobes shop which is located in our country capital but you can also order online as I also online ordered it
 
- **Website Link:** ![Electrobes](https://electrobes.com/)
+ **Website Link:** https://electrobes.com/
 
 ---
 ## ThankYou

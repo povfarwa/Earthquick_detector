@@ -49,3 +49,13 @@ After pushing the code into the esp32s3 then I tested my projct and ii am so hap
 ![working](project_images/test3.png)
 
 ---
+
+## Time : 20 Minutes
+
+After doing everything i remember that i should also make an BOM file then i make the bom file and also added it to my
+github readme
+
+### My BOM.md File
+![BOM](project_images/bom.png)
+
+---

@@ -44,5 +44,8 @@ After pushing the code into the esp32s3 then I tested my projct and ii am so hap
 
 ### My project working video
 ![working](project_videos/working.gif)
+![working](project_images/test1.png)
+![working](project_images/test2.png)
+![working](project_images/test3.png)
 
 ---

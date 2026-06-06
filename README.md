@@ -21,7 +21,7 @@ red led hich will be on when vibration happen, and resistor which protect the le
 ## My working project
 ![working](project_videos/working.mp4)
 <img width="381" height="643" alt="image" src="https://github.com/user-attachments/assets/b4055133-5184-43bc-8bd7-511ca71da87c" />
-<img width="381" height="643" alt="image" src="https://github.com/user-attachments/assets/6312de39-ab8d-420b-93f9-f52df5ae3d5b" />
+<img width="381" height="671" alt="image" src="https://github.com/user-attachments/assets/1fb98b59-247f-40da-b98b-60c4ec343a39" />
 <img width="381" height="643" alt="image" src="https://github.com/user-attachments/assets/9ecd8b6d-3585-4f7b-8c59-92e017cf82f0" />
 
 ## Difficulties

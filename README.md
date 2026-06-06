@@ -34,5 +34,9 @@ video in the readme
 ## Why making this
 actually i am making this for HackClub event Horizons
 
+---
+
+![BOM](BOM.md)
+
 ## ThankYou
 Thank You for reviewing and seeing my project
